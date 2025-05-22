@@ -1,0 +1,16 @@
+PLEASE DOWNLOAD THE FONTS TO HELP THE SYSTEM REGAIN ITS ORIGINAL LOOK 
+(only if your pc/laptop doesnt have an agency fb font style in default)
+
+# if the font doesnt work after installing and the font is not activated in SCHALE ONLINE system #
+
+> you can copy and paste and install the font directly to this file path
+
+> C:\Users\YourUserName\AppData\Local\Microsoft\Windows\Fonts
+
+> after that, right click the font file and click "install for all users"
+
+
+
+if it still doesnt work then
+please watch this video:
+https://www.youtube.com/watch?v=GphWD0J6D4I

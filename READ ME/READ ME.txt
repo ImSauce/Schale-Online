@@ -1,0 +1,24 @@
+Project Name: SCHALE ONLINE weapon store
+Developed by: Samuel James A. Cinco
+Grade: 12
+Block: 2
+Section: Berners
+Teacher: Sir Mark
+
+NOTES:
+
+> default admin account is:
+	username: "sam" 
+	password: "123"
+
+> ensure that your device has volume on. (it will prevent you from activating the home buttons if your device is unable to produce music. MUSIC IS ABSOLUTELY NECESSARY).
+
+> The User Interface might be compressed or differ from its original look if you are using a laptop or a device that has a low screen resolution.
+
+> Recommended Display Screen Resolution (1366 x 768).
+
+> Tip: Some components has a second function when you right click them.
+
+> ensure that you install the "agency FB" font on your device if u dont have it by default. (You can install the font from "SYSTEM FONT" folder in this project file).
+
+> DO NOT. I REPEAT. DO NOT CLICK THE IMAGE WITH AN ANIME GIRL THAT HAS WHITE HAIR IN THE ADMIN PANEL MENU "YOU WILL REGRET IT".
