@@ -616,9 +616,6 @@ private void formWindowOpened(java.awt.event.WindowEvent evt) {
         jPanel4 = new javax.swing.JPanel();
         jLabel19 = new javax.swing.JLabel();
         FirearmItemName21 = new javax.swing.JLabel();
-        FirearmItemName22 = new javax.swing.JLabel();
-        FirearmItemName23 = new javax.swing.JLabel();
-        FirearmItemName24 = new javax.swing.JLabel();
         FirearmItemName25 = new javax.swing.JLabel();
         jPanel7 = new javax.swing.JPanel();
         YTname1 = new javax.swing.JLabel();
@@ -4314,26 +4311,8 @@ private void formWindowOpened(java.awt.event.WindowEvent evt) {
         FirearmItemName21.setFont(new java.awt.Font("Agency FB", 0, 24)); // NOI18N
         FirearmItemName21.setForeground(new java.awt.Color(255, 255, 255));
         FirearmItemName21.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        FirearmItemName21.setText("Developer: Samuel James A. Cinco");
+        FirearmItemName21.setText("Developer: imsauce");
         FirearmItemName21.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-
-        FirearmItemName22.setFont(new java.awt.Font("Agency FB", 0, 24)); // NOI18N
-        FirearmItemName22.setForeground(new java.awt.Color(255, 255, 255));
-        FirearmItemName22.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        FirearmItemName22.setText("Grade & Section: Grade-12 Block-2 Berners");
-        FirearmItemName22.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-
-        FirearmItemName23.setFont(new java.awt.Font("Agency FB", 0, 24)); // NOI18N
-        FirearmItemName23.setForeground(new java.awt.Color(255, 255, 255));
-        FirearmItemName23.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        FirearmItemName23.setText("AGE: 18");
-        FirearmItemName23.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
-
-        FirearmItemName24.setFont(new java.awt.Font("Agency FB", 0, 24)); // NOI18N
-        FirearmItemName24.setForeground(new java.awt.Color(255, 255, 255));
-        FirearmItemName24.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        FirearmItemName24.setText("SEX: Male");
-        FirearmItemName24.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
 
         FirearmItemName25.setFont(new java.awt.Font("Agency FB", 0, 24)); // NOI18N
         FirearmItemName25.setForeground(new java.awt.Color(255, 255, 255));
@@ -4351,13 +4330,9 @@ private void formWindowOpened(java.awt.event.WindowEvent evt) {
                     .addGroup(jPanel4Layout.createSequentialGroup()
                         .addComponent(jLabel19, javax.swing.GroupLayout.PREFERRED_SIZE, 134, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(FirearmItemName21)
-                            .addComponent(FirearmItemName22)
-                            .addComponent(FirearmItemName23)
-                            .addComponent(FirearmItemName24)))
+                        .addComponent(FirearmItemName21))
                     .addComponent(FirearmItemName25))
-                .addContainerGap(239, Short.MAX_VALUE))
+                .addContainerGap(417, Short.MAX_VALUE))
         );
         jPanel4Layout.setVerticalGroup(
             jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -4365,16 +4340,9 @@ private void formWindowOpened(java.awt.event.WindowEvent evt) {
                 .addGap(5, 5, 5)
                 .addComponent(FirearmItemName25)
                 .addGap(18, 18, 18)
-                .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel19, javax.swing.GroupLayout.PREFERRED_SIZE, 134, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addGroup(jPanel4Layout.createSequentialGroup()
-                        .addComponent(FirearmItemName21)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(FirearmItemName22)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(FirearmItemName23)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(FirearmItemName24)))
+                    .addComponent(FirearmItemName21))
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
@@ -6109,9 +6077,6 @@ private void formWindowOpened(java.awt.event.WindowEvent evt) {
     private javax.swing.JLabel FirearmItemName2;
     private javax.swing.JLabel FirearmItemName20;
     private javax.swing.JLabel FirearmItemName21;
-    private javax.swing.JLabel FirearmItemName22;
-    private javax.swing.JLabel FirearmItemName23;
-    private javax.swing.JLabel FirearmItemName24;
     private javax.swing.JLabel FirearmItemName25;
     private javax.swing.JLabel FirearmItemName26;
     private javax.swing.JLabel FirearmItemName27;
